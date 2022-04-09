@@ -3,8 +3,8 @@
                                                             
                                                         👋 Hello world!-- @PranavKengale 👋
                                                  👀 Passionate about Python | ML | Data Science 👀
-                                                       📫 Thank you for reaching me out!! 📫 
-                                                      🌱 Looking to for Internships/ Co-op 🌱  
+                                                           📫 Thank you for visiting!! 📫 
+                                                  🌱 Currently looking to for Internships/ Co-op 🌱  
  
  
 <!---
